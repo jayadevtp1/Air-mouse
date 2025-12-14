@@ -1,0 +1,11 @@
+### Footprint positions - created on 2025-12-14T14:22:52+0530 ###
+### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val        Package                         PosX       PosY       Rot  Side
+Flash2    Flash      SW_Push_1P1T_XKB_TS-1187A   160.0200   -76.2000  180.0000  bottom
+Flash3    Flash      SW_Push_1P1T_XKB_TS-1187A   167.1800   -81.9450  180.0000  bottom
+Flash4    Flash      SW_Push_1P1T_XKB_TS-1187A   152.4000   -81.2800  180.0000  bottom
+Flash5    Flash      SW_Push_1P1T_XKB_TS-1187A   159.5600   -87.0250  180.0000  bottom
+U6        COM-09032  XDCR_COM-09032              157.4800   -38.1000  180.0000  bottom
+## End
